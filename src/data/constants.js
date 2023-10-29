@@ -9,7 +9,7 @@ export const Bio = {
   "I am a third-year student at Sfax University, specializing in computer system development, and with a strong passion for web development and gaming. My expertise includes Angular, React JS, and Node JS, and I'm constantly expanding my knowledge in the field. You can find my projects on GitHub, and I'm always eager to discuss topics related to ReactJs, Angular, and NodeJs. As a computer science student at ISET Sfax, I am dedicated to honing my skills and focusing on the development of computer systems.",
   github: "https://github.com/MedAlizbaira",
   resume:
-    "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697760726/Portfolio/m5uis9zalmnmvpx4nldg.png",
+    "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1698608276/Portfolio/zqpoiqn1ikyaxiopbcjb.pdf",
   linkedin: "https://www.linkedin.com/in/mohamed-ali-zbaira",
   twitter: "https://twitter.com/med_ali_zbaira?t=D3tRy5_pztxqalCdkcyVLw&s=09",
   insta: "https://instagram.com/mohamed_ali_zbaira",
