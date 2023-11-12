@@ -233,6 +233,44 @@ export const projects = [
     github: "https://github.com/MedAlizbaira/RendezvousHub",
     webapp: "https://rendezvous-hub.vercel.app/",
   }, 
+  {
+    id: 9,
+    title: "ArtyProd",
+    date: "03/2022 – 03/2022 | Sfax",
+    description:
+      "ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims to create a web application to showcase its services to users. The application allows users to explore the agency's portfolio, learn about its services, view team members, and contact the agency.",
+    image:
+     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPTS",
+      "CSS Tailwind",
+      "Django",
+               ],
+    category: "web app",
+    github: "https://github.com/MedAlizbaira/ArtyProd",
+    webapp: "https://github.com/MedAlizbaira/ArtyProd",
+  },
+  {
+    id: 9,
+    title: "Commerce Électronique",
+    date: "03/2022 – 03/2022 | Sfax",
+    description:
+      "Ce projet est un site de commerce électronique spécialisé dans la vente en ligne de légumes et de fruits. Les clients peuvent parcourir une large gamme de produits frais",
+    image:
+     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699736780/Commerce-electronique/betgj62f17okgmhnukdn.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPTS",
+      "bootstrap",
+      "Django",
+               ],
+    category: "web app",
+    github: "https://github.com/MedAlizbaira/Commerce-electronique",
+    webapp: "https://github.com/MedAlizbaira/Commerce-electronique",
+  },
   // {
   //   id: 3,
   //   title: "Buckoid",
