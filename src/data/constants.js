@@ -11,9 +11,11 @@ export const Bio = {
   resume:
     "https://www.dropbox.com/scl/fi/5ch7b39zc6fsq9zy4nz0v/MohamedAliZbairaResume.pdf?rlkey=651rlo12o8ewd9mlj1sy4iu02&dl=0",
   linkedin: "https://www.linkedin.com/in/mohamed-ali-zbaira",
+  github: "https://github.com/MedAlizbaira",
   twitter: "https://twitter.com/med_ali_zbaira?t=D3tRy5_pztxqalCdkcyVLw&s=09",
   insta: "https://instagram.com/mohamed_ali_zbaira",
   facebook: "https://www.facebook.com/profile.php?id=100028475258661",
+
 };
 
 export const skills = [
