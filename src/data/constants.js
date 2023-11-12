@@ -271,6 +271,25 @@ export const projects = [
     github: "https://github.com/MedAlizbaira/Commerce-electronique",
     webapp: "https://github.com/MedAlizbaira/Commerce-electronique",
   },
+    {
+    id: 9,
+    title: "InvoiceSwiftAngular",
+    date: "09/2023 – 09/2023 | Sfax",
+    description:
+      "About Angular-powered invoicing app: Seamlessly manage invoices with client selection, item details, and real-time total calculations. Leverages Angular's two-way data binding and modular components for a dynamic and user-friendly experience. Ideal for showcasing modern web development principles",
+    image:
+     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699717285/Angular-Invoice-Manager/j5ju34lrbi6bc3a4sji3.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPTS",
+      "bootstrap",
+      "Angular",
+               ],
+    category: "web app",
+    github: "https://github.com/MedAlizbaira/InvoiceSwiftAngular",
+    webapp: "https://invoiceswift-angular.vercel.app/",
+  },
   // {
   //   id: 3,
   //   title: "Buckoid",
