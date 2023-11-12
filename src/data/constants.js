@@ -60,7 +60,7 @@ export const skills = [
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
        {
-        name: "Bootstrap",
+        name: "Css Tailwind",
         image:
           "https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-512.png",
       },
