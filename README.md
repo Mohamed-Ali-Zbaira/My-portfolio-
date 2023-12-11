@@ -26,6 +26,6 @@ Testing Libraries: Various testing libraries such as Jest, React Testing Library
 
 ### Project Demo
 You can explore the live demo of this portfolio project at the following link:
-https://my-portfolio-pearl-iota.vercel.app/
+https://my-portfolio-iota-gilt.vercel.app/
 ### Portfolio Demo
 This portfolio serves as a reflection of my career, highlighting key achievements, skills, and experiences, all while ensuring an enjoyable user experience. Feel free to explore and get in touch via the contact section if you have any inquiries or opportunities to discuss.
