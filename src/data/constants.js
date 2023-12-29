@@ -11,7 +11,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/12C0lEy6QYZ21g1gJ64XLQdB_2dm1w563/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohamed-ali-zbaira",
-  github: "https://github.com/MedAlizbaira",
+  github: "https://github.com/Mohamed-Ali-Zbaira",
   twitter: "https://twitter.com/med_ali_zbaira?t=D3tRy5_pztxqalCdkcyVLw&s=09",
   insta: "https://instagram.com/mohamed_ali_zbaira",
   facebook: "https://www.facebook.com/profile.php?id=100028475258661",
