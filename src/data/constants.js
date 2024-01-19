@@ -6,7 +6,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-  "I am a third-year student at Sfax University, specializing in computer system development, and with a strong passion for web development and gaming. My expertise includes Angular, React JS, and Node JS, and I'm constantly expanding my knowledge in the field. You can find my projects on GitHub, and I'm always eager to discuss topics related to ReactJs, Angular, and NodeJs. As a computer science student at ISET Sfax, I am dedicated to honing my skills and focusing on the development of computer systems.",
+    "I am a third-year student at Sfax University, specializing in computer system development, and with a strong passion for web development and gaming. My expertise includes Angular, React JS, and Node JS, and I'm constantly expanding my knowledge in the field. You can find my projects on GitHub, and I'm always eager to discuss topics related to ReactJs, Angular, and NodeJs. As a computer science student at ISET Sfax, I am dedicated to honing my skills and focusing on the development of computer systems.",
   github: "https://github.com/Mohamed-Ali-Zbaira",
   resume:
     "https://drive.google.com/file/d/12C0lEy6QYZ21g1gJ64XLQdB_2dm1w563/view?usp=sharing",
@@ -61,13 +61,13 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
-       {
+      {
         name: "Css Tailwind",
         image:
           "https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-512.png",
       },
 
-      
+
     ],
   },
   {
@@ -96,9 +96,14 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "Laravel",
+        image: "https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg",
+      },
+
     ],
   },
- 
+
   {
     title: "Others",
     skills: [
@@ -168,7 +173,7 @@ export const experiences = [
       "jQuery",
     ]
   }
-  
+
 ];
 
 export const education = [
@@ -180,7 +185,7 @@ export const education = [
     Niveau: "High School Diploma (Baccalauréat)",
     degree: "4th Year Technical Stream (Bac Technique)",
     desc: "I successfully completed my high school education and was admitted to the next level."
-  },  
+  },
   {
     id: 2,
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570790/Portfolio/bk4ljbztlulahsnu3jwv.jpg",
@@ -198,7 +203,7 @@ export const education = [
     desc: "Completed the second year with specialization in Computer System Development."
   }
 
-  
+
 ];
 
 export const projects = [
@@ -217,11 +222,11 @@ export const projects = [
       "PHP",
       "LARAVEL",
       "Mysql",
-         ],
+    ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/E-commerce",
     webapp: "",
-  }, 
+  },
   {
     id: 9,
     title: "RendezvousHub",
@@ -229,18 +234,18 @@ export const projects = [
     description:
       "Optimize your appointment management with RendezVousPro. Create, edit, and track your appointments with ease. Never miss a crucial meeting again thanks to our efficient application.",
     image:
-     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697803976/RendezvousHub/uerpztgt2q1xfesg3hok.png",
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697803976/RendezvousHub/uerpztgt2q1xfesg3hok.png",
     tags: [
       "HTML",
       "CSS",
       "JAVASCRIPTS",
       "bootstrap",
       "React",
-               ],
+    ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/RendezvousHub",
     webapp: "https://rendezvous-hub.vercel.app/",
-  }, 
+  },
   {
     id: 9,
     title: "ArtyProd",
@@ -248,14 +253,14 @@ export const projects = [
     description:
       "ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims to create a web application to showcase its services to users. The application allows users to explore the agency's portfolio, learn about its services, view team members, and contact the agency.",
     image:
-     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png",
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699703187/Artyprod/g66ojzncm9hdr1yufddb.png",
     tags: [
       "HTML",
       "CSS",
       "JAVASCRIPTS",
       "CSS Tailwind",
       "Django",
-               ],
+    ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/ArtyProd",
     webapp: "https://github.com/MedAlizbaira/ArtyProd",
@@ -267,33 +272,33 @@ export const projects = [
     description:
       "Ce projet est un site de commerce électronique spécialisé dans la vente en ligne de légumes et de fruits. Les clients peuvent parcourir une large gamme de produits frais",
     image:
-     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699736780/Commerce-electronique/betgj62f17okgmhnukdn.png",
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699736780/Commerce-electronique/betgj62f17okgmhnukdn.png",
     tags: [
       "HTML",
       "CSS",
       "JAVASCRIPTS",
       "bootstrap",
       "Django",
-               ],
+    ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/Commerce-electronique",
     webapp: "https://github.com/MedAlizbaira/Commerce-electronique",
   },
-    {
+  {
     id: 9,
     title: "InvoiceSwiftAngular",
     date: "09/2023 – 09/2023 | Sfax",
     description:
       "About Angular-powered invoicing app: Seamlessly manage invoices with client selection, item details, and real-time total calculations. Leverages Angular's two-way data binding and modular components for a dynamic and user-friendly experience. Ideal for showcasing modern web development principles",
     image:
-     "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699717285/Angular-Invoice-Manager/j5ju34lrbi6bc3a4sji3.png",
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1699717285/Angular-Invoice-Manager/j5ju34lrbi6bc3a4sji3.png",
     tags: [
       "HTML",
       "CSS",
       "JAVASCRIPTS",
       "bootstrap",
       "Angular",
-               ],
+    ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/InvoiceSwiftAngular",
     webapp: "https://invoiceswift-angular.vercel.app/",
