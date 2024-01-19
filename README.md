@@ -1,10 +1,8 @@
 # Portfolio Project
 
-<<<<<<< HEAD
-This portfolio project, has been meticulously crafted using a range of modern tools and technologies to showcase my professional profile, skills, and accomplishments. It is designed to present my professional journey and web development expertise in a polished and user-friendly manner.
-=======
-This portfolio project, named "job," has been meticulously crafted using a range of modern tools and technologies to showcase my professional profile, skills, and accomplishments. It is designed to present my professional journey and web development expertise in a polished and user-friendly manner.
->>>>>>> dc6c1bcf0ca810c890b2d87d77d67340b220cf9c
+
+This portfolio project,has been meticulously crafted using a range of modern tools and technologies to showcase my professional profile, skills, and accomplishments. It is designed to present my professional journey and web development expertise in a polished and user-friendly manner.
+
 
 ## Tools and Technologies
 
