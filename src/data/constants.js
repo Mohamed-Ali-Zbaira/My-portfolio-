@@ -98,7 +98,7 @@ export const skills = [
       },
       {
         name: "Laravel",
-        image: "https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg",
+        image: "https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg",
       },
 
     ],
@@ -110,7 +110,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg",
       },
       {
         name: "GitHub",
@@ -128,6 +128,11 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
+        name: "Vercel",
+        image:
+          "https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -135,7 +140,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg",
       },
     ],
   },
@@ -229,8 +234,29 @@ export const projects = [
   },
   {
     id: 9,
+    title: "Reservation-ticket",
+    date: "03/2022 – 04/2022 | Sfax",
+    description:
+      "Online reservation system for sports and film tickets. User and ticket management, authentication, and administrator dashboard.",
+    image:
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1705695864/Reservation-ticket/screencapture-127-0-0-1-3000-2023-12-13-16_27_53_ghqbi0.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "Css Tailwind",
+      "JAVASCRIPTS",
+      "Next Js",
+      "Express Js",
+      "MongoDB",
+    ],
+    category: "web app",
+    github: "https://github.com/Mohamed-Ali-Zbaira/Reservation-ticket",
+    webapp: "",
+  },
+  {
+    id: 9,
     title: "RendezvousHub",
-    date: "01/2022 – 02/2022 | Sfax",
+    date: "04/2022 – 04/2022 | Sfax",
     description:
       "Optimize your appointment management with RendezVousPro. Create, edit, and track your appointments with ease. Never miss a crucial meeting again thanks to our efficient application.",
     image:
@@ -249,7 +275,7 @@ export const projects = [
   {
     id: 9,
     title: "ArtyProd",
-    date: "03/2022 – 03/2022 | Sfax",
+    date: "04/2022 – 05/2022 | Sfax",
     description:
       "ArtyProd, a graphic design, audiovisual production, and 3D design agency, aims to create a web application to showcase its services to users. The application allows users to explore the agency's portfolio, learn about its services, view team members, and contact the agency.",
     image:
@@ -268,7 +294,7 @@ export const projects = [
   {
     id: 9,
     title: "Commerce Électronique",
-    date: "03/2022 – 03/2022 | Sfax",
+    date: "04/2022 – 05/2022 | Sfax",
     description:
       "Ce projet est un site de commerce électronique spécialisé dans la vente en ligne de légumes et de fruits. Les clients peuvent parcourir une large gamme de produits frais",
     image:
@@ -303,19 +329,40 @@ export const projects = [
     github: "https://github.com/MedAlizbaira/InvoiceSwiftAngular",
     webapp: "https://invoiceswift-angular.vercel.app/",
   },
-  // {
-  //   id: 3,
-  //   title: "Buckoid",
-  //   date: "Dec 2021 - Apr 2022",
-  //   description:
-  //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-  //   image:
-  //     "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
-  //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  // }, 
+  {
+    id: 3,
+    title: "North Africa's Tunisia Diamond",
+    date: "10/2023 – 11/2023 | Sfax",
+    description:
+      "North Africa's Tunisia Diamond: Manages hotels, users; features include CRUD operations for hotels, user registration, login",
+    image:
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1705695174/North%20Africa%27s%20Tunisia%20Diamond/Capture_d_%C3%A9cran_2024-01-19_211205_utxikw.png",
+    tags: ["HTML",
+      "CSS",
+      "JAVASCRIPTS",
+      "Express Js",
+      "Angular",],
+    category: "android app",
+    github: "https://github.com/Mohamed-Ali-Zbaira/North-Africa-s-Tunisia-Diamond___front-end",
+    webapp: "",
+  },
+  {
+    id: 3,
+    title: "Client and Invoice Management ",
+    date: "11/2023 – 12/2023 | Sfax",
+    description:
+      "Client and invoice management system. Efficient, activation, address-based tracking, statistics. Database, UI design, data analysis proficiency demonstrated",
+    image:
+      "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1705697987/mp-fe-Mohamed-Ali-Zbaira/386870827_261514060272079_7432626746948972750_n_sibbau.png",
+    tags: ["HTML",
+      "CSS",
+      "JAVASCRIPTS",
+      "Spring Boot",
+      "Angular",],
+    category: "android app",
+    github: "https://github.com/Mohamed-Ali-Zbaira/mp-fe-Mohamed-Ali-Zbaira",
+    webapp: "",
+  },
 ];
 
 // export const TimeLineData = [
