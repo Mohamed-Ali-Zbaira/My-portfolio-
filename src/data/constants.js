@@ -37,11 +37,6 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
       {
-        name: "Flutter",
-        image:
-          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
-      },
-      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -178,7 +173,7 @@ export const experiences = [
   // Ajout des autres expériences professionnelles du CV
   {
     id: 2,
-    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/doxso_logo.png", // URL d'image générique ou à remplacer
+    img: "https://doxso-technologies.com/images/icons/logo.png", // URL d'image générique ou à remplacer
     role: "Web Developer Intern",
     company: "Doxso Technologies",
     date: "Jan 2024 - Jun 2024 · 6 months", // [cite: 28]
@@ -195,7 +190,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/freelance_logo.png", // URL d'image générique ou à remplacer
+    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
     role: "Fullstack Web Developer & Junior DevOps (Freelance)",
     company: "Freelance",
     date: "Nov 2024 - Mar 2025 · 5 months", // [cite: 21]
@@ -211,7 +206,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/freelance_logo_2.png", // URL d'image générique ou à remplacer
+    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
     role: "Web Developer (Freelance)",
     company: "Freelance",
     date: "Apr 2025 | Remote", // [cite: 14]
@@ -255,62 +250,19 @@ export const education = [
 ];
 
 export const projects = [
-  // NOUVEAUX PROJETS AJOUTÉS DU CV
-  {
-    id: 0,
-    title: "Logistics Dashboard (Freelance)",
-    date: "04/2025 | Remote", // [cite: 14]
-    description: "Developed a logistics dashboard for shipment tracking and management with dynamic, responsive front-end interfaces and improved user experience.", // [cite: 15, 18, 19]
-    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/logistics_dashboard.png", // Placeholder à remplacer
-    tags: ["React.js", "Tailwind CSS", "GitHub Actions", "CI/CD"], // [cite: 16, 17, 18]
-    category: "web app",
-    github: "", // À ajouter si disponible
-    webapp: "", // À ajouter si disponible
-  },
-  {
-    id: 1,
-    title: "Secure E-learning Platform (Freelance)",
-    date: "04/2025 | Remote", // [cite: 14]
-    description: "Developed a secure e-learning platform featuring comprehensive user management and content delivery functionalities, including automated deployment via CI/CD.", // [cite: 15, 17]
-    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/elearning_platform.png", // Placeholder à remplacer
-    tags: ["React.js", "GitHub Actions", "CI/CD"], // [cite: 16, 17]
-    category: "web app",
-    github: "", // À ajouter si disponible
-    webapp: "", // À ajouter si disponible
-  },
-  {
-    id: 2,
-    title: "Hotel Room Booking Platform (Freelance)",
-    date: "11/2024 – 03/2025 | Remote", // [cite: 21]
-    description: "Designed and deployed a full-stack platform for hotel room booking, client management, and internal operations. Included containerization and VPS deployment management.", // [cite: 22, 25, 26]
-    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/hotel_booking.png", // Placeholder à remplacer
-    tags: ["Laravel", "React.js", "MySQL", "Docker", "Docker Compose", "RESTful API"], // [cite: 23, 24, 25]
-    category: "fullstack",
-    github: "", // À ajouter si disponible
-    webapp: "", // À ajouter si disponible
-  },
+ 
   {
     id: 3,
     title: "Aloo Doctoor (Medical Platform Internship)",
     date: "01/2024 – 06/2024 | Sfax", // [cite: 28]
     description: "Led the development of 'Aloo Doctoor,' an innovative medical platform to enhance patient data management and communication among healthcare professionals, focusing on security and scalability.", // [cite: 29, 32, 33]
-    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/aloo_doctoor.png", // Placeholder à remplacer
+    image: "https://camo.githubusercontent.com/ad2c3d08d3ed67a9e83da2e2b7be46696ca61b615543cffc60c7db834bb026aa/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b72666d71626a312f696d6167652f75706c6f61642f76313733303833363834362f474954253230446576656c6f706d656e742532306f66253230612532304d65646963616c253230506c6174666f726d2f73637265656e636170747572652d3132372d302d302d312d383030302d323032342d31312d30352d32305f35385f33355f7670756c61392e706e67", // Placeholder à remplacer
     tags: ["HTML5", "CSS", "JavaScript", "PHP", "Laravel", "MySQL", "XAMPP"], // [cite: 31, 32, 33, 34]
     category: "fullstack",
     github: "View the project on GitHub.", // [cite: 35]
     webapp: "",
   },
-  {
-    id: 4,
-    title: "Professional Portfolio (Internship UIB)",
-    date: "01/2022 – 02/2022 | Sfax", // [cite: 46]
-    description: "Designed and developed a professional portfolio during the first-year internship, serving as a tangible representation of web development skills and creativity.", // [cite: 47, 48]
-    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/uib_portfolio.png", // Placeholder à remplacer
-    tags: ["HTML", "CSS", "JavaScript", "React"], // [cite: 47]
-    category: "web app",
-    github: "You can view it here on GitHub.", // [cite: 49]
-    webapp: "",
-  },
+ 
 
   // PROJETS PRÉ-EXISTANTS MAINTENUS ET AJUSTÉS
   {
