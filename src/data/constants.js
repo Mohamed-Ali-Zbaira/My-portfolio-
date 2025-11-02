@@ -1,12 +1,12 @@
 export const Bio = {
   name: "Mohamed Ali Zbaira",
   roles: [
-    "student",
+    "Front-End Developer",
     "Full Stack Developer",
-    "Programmer",
+    "Software Engineer",
   ],
   description:
-    "I am a third-year student at Sfax University, specializing in computer system development, and with a strong passion for web development and gaming. My expertise includes Angular, React JS, and Node JS, and I'm constantly expanding my knowledge in the field. You can find my projects on GitHub, and I'm always eager to discuss topics related to ReactJs, Angular, and NodeJs. As a computer science student at ISET Sfax, I am dedicated to honing my skills and focusing on the development of computer systems.",
+    "Full-Stack Web Developer with a strong background in Angular, React.js, Node.js, and Laravel, and hands-on experience with Docker. Passionate about automation, cloud infrastructure, and modern development workflows, I aim to build secure, scalable, and efficient digital solutions while continuously enhancing my skills in DevOps and web technologies.",
   github: "https://github.com/Mohamed-Ali-Zbaira",
   resume:
     "https://drive.google.com/file/d/12C0lEy6QYZ21g1gJ64XLQdB_2dm1w563/view?usp=sharing",
