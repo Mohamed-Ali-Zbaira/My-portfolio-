@@ -9,7 +9,7 @@ export const Bio = {
     "Full-Stack Web Developer with a strong background in Angular, React.js, Node.js, and Laravel, and hands-on experience with Docker. Passionate about automation, cloud infrastructure, and modern development workflows, I aim to build secure, scalable, and efficient digital solutions while continuously enhancing my skills in DevOps and web technologies.",
   github: "https://github.com/Mohamed-Ali-Zbaira",
   resume:
-    "https://drive.google.com/file/d/12C0lEy6QYZ21g1gJ64XLQdB_2dm1w563/view?usp=sharing",
+    "https://drive.google.com/file/d/1v22hZ1ChjvTMgm40px8hMm2bkTcdjr1m/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/mohamed-ali-zbaira",
   github: "https://github.com/Mohamed-Ali-Zbaira",
   twitter: "https://twitter.com/med_ali_zbaira?t=D3tRy5_pztxqalCdkcyVLw&s=09",
@@ -139,11 +139,58 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 4,
+    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
+    role: "Web Developer (Freelance)",
+    company: "Freelance",
+    date: "Apr 2025 | Remote", //
+    desc: "Worked on two web applications: a logistics dashboard for shipment tracking and a secure e-learning platform. Created CI/CD pipelines with GitHub Actions for automated deployment.",
+    skills: [
+      "React.js",
+      "Tailwind CSS",
+      "GitHub Actions",
+      "CI/CD"
+    ]
+  },
+  {
+    id: 3,
+    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
+    role: "Fullstack Web Developer & Junior DevOps (Freelance)",
+    company: "Freelance",
+    date: "Nov 2024 - Mar 2025 · 5 months", //
+    desc: "Designed and deployed a fullstack web platform for hotel room booking, client management, and internal operations. Containerized the application and managed VPS deployment.",
+    skills: [
+      "Laravel",
+      "React.js",
+      "MySQL",
+      "Docker",
+      "Docker Compose",
+      "RESTful API"
+    ]
+  },
+  {
+    id: 2,
+    img: "https://doxso-technologies.com/images/icons/logo.png", // URL d'image générique ou à remplacer
+    role: "Web Developer Intern",
+    company: "Doxso Technologies",
+    date: "Jan 2024 - Jun 2024 · 6 months", //
+    desc: "Led the development of the innovative medical platform, Aloo Doctoor, designed to enhance patient data management and facilitate communication among healthcare professionals.",
+    skills: [
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "XAMPP"
+    ]
+  },
+  {
     id: 0,
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/eigoqjgavknxr2nswm7b.png",
     role: "Web Developer Intern",
     company: "Exadev",
-    date: "Jan 2023 - Feb 2023 · 2 months", // Mise à jour pour correspondre au CV [cite: 37]
+    date: "Jan 2023 - Feb 2023 · 2 months", // Mise à jour pour correspondre au CV
     desc: "I created an E-commerce website as part of my second-year internship. The project's objective was to apply the skills I had acquired during my web development studies and to create a functional and professional E-commerce platform.",
     skills: [
       "HTML5",
@@ -160,76 +207,26 @@ export const experiences = [
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/tk6p7fcltayjqfdruayw.png",
     role: "Web Development Intern",
     company: "UIB - Société Générale Group",
-    date: "Jan 2022 - Feb 2022 · 2 months", // Mise à jour pour correspondre au CV [cite: 46]
+    date: "Jan 2022 - Feb 2022 · 2 months", // Mise à jour pour correspondre au CV
     desc: "I created my portfolio using HTML, CSS, and JavaScript to showcase my skills and achievements. Explore my work and feel free to contact me for exciting collaborations in the field of web development.",
     skills: [
       "HTML5",
       " CSS",
       "JavaScript",
       "jQuery",
-      "React", // Ajouté car mentionné dans le CV [cite: 47]
+      "React", // Ajouté car mentionné dans le CV
     ]
-  },
-  // Ajout des autres expériences professionnelles du CV
-  {
-    id: 2,
-    img: "https://doxso-technologies.com/images/icons/logo.png", // URL d'image générique ou à remplacer
-    role: "Web Developer Intern",
-    company: "Doxso Technologies",
-    date: "Jan 2024 - Jun 2024 · 6 months", // [cite: 28]
-    desc: "Led the development of the innovative medical platform, Aloo Doctoor, designed to enhance patient data management and facilitate communication among healthcare professionals.",
-    skills: [
-      "HTML5",
-      "CSS",
-      "JavaScript",
-      "PHP",
-      "Laravel",
-      "MySQL",
-      "XAMPP"
-    ]
-  },
-  {
-    id: 3,
-    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
-    role: "Fullstack Web Developer & Junior DevOps (Freelance)",
-    company: "Freelance",
-    date: "Nov 2024 - Mar 2025 · 5 months", // [cite: 21]
-    desc: "Designed and deployed a fullstack web platform for hotel room booking, client management, and internal operations. Containerized the application and managed VPS deployment.",
-    skills: [
-      "Laravel",
-      "React.js",
-      "MySQL",
-      "Docker",
-      "Docker Compose",
-      "RESTful API"
-    ]
-  },
-  {
-    id: 4,
-    img: "https://thumbs.dreamstime.com/z/logo-vectoriel-pour-freelance-et-travail-%C3%A0-distance-ind%C3%A9pendant-179625284.jpg?ct=jpeg", // URL d'image générique ou à remplacer
-    role: "Web Developer (Freelance)",
-    company: "Freelance",
-    date: "Apr 2025 | Remote", // [cite: 14]
-    desc: "Worked on two web applications: a logistics dashboard for shipment tracking and a secure e-learning platform. Created CI/CD pipelines with GitHub Actions for automated deployment.",
-    skills: [
-      "React.js",
-      "Tailwind CSS",
-      "GitHub Actions",
-      "CI/CD"
-    ]
-  },
-
+  }
 ];
 
 export const education = [
   {
-    id: 1,
-    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570823/Portfolio/abj9nqzcbwawdffjndnn.webp",
-    school: "Ali Bourguiba High School, Mahres",
-    date: "2017 - 2021", // Mise à jour pour correspondre au CV [cite: 55]
-    Niveau: "High School Diploma (Baccalauréat)",
-    degree: "Technical Stream (Bac Technique)",
-    desc: "I successfully completed my high school education and was admitted to the next level."
+    id: 3,
+    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570771/Portfolio/vy5lhqz6ct7obadir4b0.png",
+    school: "Higher Institute of Technological Studies of Sfax (ISET Sfax)",
+    date: "September 2022 - June 2024", // Mise à jour pour couvrir le diplôme de Bachelor
+    degree: "Bachelor's Degree in Information Technology", // Remplacé par le diplôme final
+    desc: "Completed the second year with specialization in Computer System Development and obtained the Bachelor's Degree in Information Technology."
   },
   {
     id: 2,
@@ -240,15 +237,15 @@ export const education = [
     desc: "Completed the first year with admission to the main section and chose the specialization in Computer System Development."
   },
   {
-    id: 3,
-    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570771/Portfolio/vy5lhqz6ct7obadir4b0.png",
-    school: "Higher Institute of Technological Studies of Sfax (ISET Sfax)",
-    date: "September 2022 - June 2024", // Mise à jour pour couvrir le diplôme de Bachelor [cite: 54]
-    degree: "Bachelor's Degree in Information Technology", // Remplacé par le diplôme final [cite: 51]
-    desc: "Completed the second year with specialization in Computer System Development and obtained the Bachelor's Degree in Information Technology."
+    id: 1,
+    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570823/Portfolio/abj9nqzcbwawdffjndnn.webp",
+    school: "Ali Bourguiba High School, Mahres",
+    date: "2017 - 2021", // Mise à jour pour correspondre au CV
+    Niveau: "High School Diploma (Baccalauréat)",
+    degree: "Technical Stream (Bac Technique)",
+    desc: "I successfully completed my high school education and was admitted to the next level."
   }
 ];
-
 export const projects = [
  
   {
