@@ -15,7 +15,6 @@ export const Bio = {
   twitter: "https://twitter.com/med_ali_zbaira?t=D3tRy5_pztxqalCdkcyVLw&s=09",
   insta: "https://instagram.com/mohamed_ali_zbaira",
   facebook: "https://www.facebook.com/profile.php?id=100028475258661",
-
 };
 
 export const skills = [
@@ -66,8 +65,6 @@ export const skills = [
         image:
           "https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-tailwind-css-512.png",
       },
-
-
     ],
   },
   {
@@ -80,7 +77,7 @@ export const skills = [
       {
         name: "Express Js",
         image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEWCgoL////l5eXk5OTm5ubu7u74+Pj19fXx8fH7+/vr6+t+fn52dnZ7e3t8fHzz8/OGhoaTk5Pa2tq3t7e7u7utra3Q0NCZmZnFxcWkpKSMjIzKysqpqanX19e/v7+dnZ1ra2tH/Sn9AAASPElEQVR4nOVdbZuyKhBWwTcErcxqa7fO//+VB9RKGF6tdvWc+bLPNY+m48DMzc0AURzHWYKTjP9FOEn5nzTBaKJNPLW5UYtxQozawqYtH1o8V4ui/4eFKEG9hcn4fgmaqU2S0ZaHNndpi0Fbjlr8Ni0atVGWZXmapjn/y/8U/E/B//6etnmnttFoI/4BemcgxUVBWuLS8iaES/6XENLwPw1vSpPPngzXPj67TYtDtIhrI6ztZm/pkuKZDbcpLgt0uV73+7b74tJ1bdterztUZDgl5Se6JJpoP+ZD/uNNnKNTdztHlFJWV7LUjCuj8609oIx/hfRzPvxI3yqanBzaIzeNGxbZpKq4pdG2PeBcdKKXepyhH747lgotut4iyuymKYYyGt1O6aRpvi+WvrXzYZKSXbehDscZrKxp1F1wms7sfNZ8iAa/oLGbIeSjJRrt9RjmO+hLtj31HkDD+6GhS6Kxm3losaKNAs0yG9uQ042+Yt1dano8lS+ahT6QLUjH2BvMG42sOxKTt2WLV8MLwqT42b7FfU+p6PYkUunrQSd6PUU0pK3e576nsKgl8euJQ84W4ck/IWj/UmyxScW+EQlO/gi9M1vkqPuYfYONXfGWbDHbh+1H7Rts3AdCNUX7Qj/M8lNUf9g+IXV0KssX+uH8WIo2n4gvOmFnFAjVprF0bj7Mvukv2SeEfudkbj6cBdUScnhz/nMJ745kHoCbh0uz2286cBB2K3NvqDbFpeHZAse/7cBBKnpKfZvmS1wbSY6/78BB2FGid/wAXPAYvznMGvy9R6rqEH+Ya0ua6185cBDaEm1eQO/i2vDxt3KgSdgRuUmA2Vwb2W3+roXepdqgIAAX0g/zw187cBB2yD/DtaXt33bBp/DO6IBqs0ZP6dcyPCiEfZXeAM4b0xTH3xhH+Aq72aHaFNP4RRqcnP8+xkylOqO3ZguMFhBEZRlCqgmqhXJtJdr8tUE6yd/GtZVkaQ4cJS0n75tqE0fqw7VhtFADo2j3Fq4NL7OJ9rJ5C9eWLNdAHlHdAM7ZD/OFpQlZqm2hQrU8kGtLj0s2kJt4dAE4Rz5Mv5aEZHRS6wCcP9eWt8vBoiahJzuAs0YacljKaMIm9IKtkcaWLXbL96AQtsMWAGcZHyZ4wXlCkk0410Z6Vm3hYfQp1TZWoJoX19Zc19FGhbCOhI+e8M8aosxd6CGYa8PJX790mFTBXFu8mk44SHUsIdeW27i2VWTCqdALCeHakmxtBnITrflQ5drIbV1ttJctCeDaVtdGhdCDPtLossUK26gQmjW+XNv3Ctsol+o7s3NtZEwcGVqnC7kTf0YriJ1ry9cCuKGc/bi203rwqCrs4sW1/fVrviKVB9fWtEtnZmxSt42La0vQetuoELZzcW2kW2emuEvVObm2dbtQpH0719bs1+1CkfaJbWyBydpdyIONNVuQdu0u5E5sCeTaSErEGJ+kxfoN5CYWI9c2ADh59PQT3EjF4roqOh+3x/OG/5u5y/oAJvT9qup1GwO6ZD+xmWvbej5sfCSj5/ZARAMfJCM/+1tlLz5lRawI8QP61Zd649Fw5TZOTFyb57PGV2VfP6X6UCGojay/A27wI2Yr9TbjrBFFyXQEnOcj15ZnTUC2p+eDzrpRdluzjdAX8dbjuTRRbjLzuVVX5gPXlitcm3+qoEdksa935Nn4Y/SiXty42w5rlXtyy8uy2JAPfYdNbLNz2CfkZHxtmqrXXpxPPqu32PzODgau7eZnIL162Ce+4tk0StmAa13tlKrxyTp1W91kru1BknrFmaqv8PCTzvCL9bd6pYP7omqn3zmuR4lubHH1iTMUxgmLXAwvAt7YEjciTXDKHK262uPHngVPH6am9CK92j7EQPO3Zo16pY2DBoni7HrPSYUGH+OTYYzvkwxhGJxrIogcpZlaoGrgdtdPUJJDrs1j0h42LrcYmh+I/uauBS51dML+nl0Os4U73fd1HUDK5HDat/vrAWW6/zZlDQoyjomHVt1ty4R3qbocjp6cLCnr4Ovj9nzf1YND8HOrAg8hX/o3ZwDy6R8LEoUPAoo2mcy1cZDjJLqrLXj3n7OCsistmNN/O/h72lcAXd+viIlibpTEtRVO+oKpjRCddW+kATzY0BUBcuhgtBHJWxKPTtj/uPgwUj5sDG3pIaDfGFdfwJRpYA5AjNRkgUppy65M+LhPgAqJa8t97phIaUbWfKiqAk/TtaqFIGOBj+DVCe+/PeXasCsbKnGhtI/M1RczLCcCTTDeyxeCRLH3H/7s5P3asGNJk9pnXNQDxfL1hkANEYTcTtVE4dkJhdQnOVs4SbbQtkJlWGYigKgK49OpDWqi8O2EQqqWTLk20thBKZNzgE/AVj6/6TIwkJoMUoGH/Tshl2Mjc232q2Xo6zXMUrrQyQA71Qg2YcNALw0s55W5Nvv4rJZ7oRPZ9yI3sdKYW1SIkN+vVEFPQCfsfziXuDY7oqH59EmepSiKC4zVDwCVjYNKNR6XgVwuv//OteV52pgake5d/VyoRhHz0AUMpPqSOpAoQgvt6lPT2zbEUvusIZPgjHdjUbqY0UKA6HtvqXYH19RX3VAbPeRDYiWhqPQoF7ybvLrnffRHsYb3AzWNzKiAuZGnhYjYWp7Ckvh/Sya9uYUxrKV+Lr6GmihCO6GQ82jhEEttV9bSwDcgolVS80vNN4KBVKkmiqBMeJfp2MIYy4XIDSZkklhOo5YLmYPg8oej0x8tJ1xbYbNQ7k4hdZkydLPdCQdSU5lXhkaLwYeEkKK0/sRRelpISZgchK3eB4ThRLJ5FT4MpYSk5RBLbfMGlZyYgibgpHhhnX6t5O8oycyS8/7pYyzFV8tXklF3wzb+EkndyxJqxGO0RJ6Ques+6v3UQttEjmsizVcsnK8QMJAaZXYtaHWNH1xbaesicC5srji6MJyR6r/L7OKJ6ppz2/IhllotfJeBrioBzeRwPLsTit/bk2c+tI3w32ehk87TcK0vLL7iFj65Nhvwrt9mobMcSdMVZ9snIBV5cG3E9nX13WOOOOGQpp3aA7D718ZY+ksWWgeh/TvpbpptYj+svVtoA1RggDpbXPUIeug2O9TcLRR8VGHz4fv6ocNCOKXYiyONWiz8ikWx3sDT2CIN0z53loX2dzU1lrkp/x5p+mxhs1DOFqL8dqZgeywFjNRDunkZo+rSJ9dmzYfSAJz8Q2eL3UDLDLov96VYyDP+nWtrbBYyaQrihehtfx0wSfPyQ6s2e3Bt1vYjD/I+ZqHFQHNdjv0nReTyGVvINI2V75gvgP5VTJyz4vM+thgstI2AZTrzIxaqiaJQYcacEUY9+rCPpdZamvkshreoiWILaq9mpAy2688eGCy03i8nRJ/asFBRh6AnBkF4+D4yFBFPrk1OVB9YNaTSv31BLcj/wSmDNhOuzTq55k1dzxSQKHpbAIXqUUgsC82eXBvC1jeQwkBQtbuXqIliDHugnQanjOnMTGptAnKDmWuISdRCnUfGBe00MGWcpZkZ+9yTVA0V0hHZVAyXqCOKs/F/Aj/ubfRhURRNXlpBsdwRDTVc2hsvu4noiSjVU5MpCrVkJSxlVG3JbbtzbaaSnvFamVzwX1gj5xntJWqikLu56sSQGRp2kOra7F9HflP/SWDpy2hDFFMLSqSAUIN6z4BlS2Ief1LXZq/FkJup92PkGKJjaUCiUJwEeI2AlMGjx7OuLcHEfrUM3HzHFzK41IEhlSGBfVx1YsCeJESU85bJ3UI7GFN6ix//JY9pdRVboKITJK0KtFPvMoIjCalrUx/ks5uiMl+mwUKgm2mwJ+TfPA2c1rWVOQc3jtpEqtQS+MyrO9wDE4U+D6kW+i3t4TFMrCEts0ddmyPLgfIz5wkClVw0rQnAYFJLOzCD8dQvZYgZdmkNqatGGGRf05qm0b6NUhUO469viTpsp36xPFbWkDYu0AdQ4o/lMCtQ6g1dCBKFOSWrT8492ulQ5/3g2ji4yVyTCrCyPm4N/CCLADMIG6Baom4mD2A79UgZ9bXhiE3Y9lhR4kxymqmvvGPAkRWN4Iw83C8Flv5b1j2B9Q3ulEF3GKwKchMwunXNh+/oeRJuzejmW7O+FDZA4BcrbAT+dqeMTQbXkDpHRZpFM4Mnd5e9OMq42192aoFaLw0MIaBX258M5hVdA5yqfZwNxWMp7tcfYjc9UQetrnwKbB2gxTs+L2ynjtlvdhlOXcaTNaQYu9MMm2Ui3BAcLIJzDvzgMjA75mDJzDWkzDa7oJccLs2AcxTOB8Nb7CsTpmtIB66tLEjqnITmUp/1iwyNomsZteoQD2IEVNlaU0Z9SnNu1IRrG3Yc8Bsx+KzFf4huFAJ+wWtIDdvptyW/GHYc8FuPT8EKCaPkuhPaYAL3eqxm+s2Y3/r1+LodeDz3VKgA9WCQkxbzgEThSd7BdmpMGYKTePqw59rynGOcwrsmgG08ljxfIu0HA4nCm/aB7dSUMmg+GDXl2ob92vypUFZdtcn9LunecAgySBT+82bem6KIzbAM+7WFMPbifHBDvSQ+Gc+whoWyATuJwnaqJ9Aowsb92sL2GKppddwfyMSZOTmITYYsrV19x6DFTGApcqzdXm4bg/3a7uePkfBtL8UidVZtztvteRP1/7b65HzcyhL2tI1y91aHUtipX7rN/RhPuLZxvzYHqbgS+d/t11aWgmsjOf/L/6Tr33OPCahWlg23JisnXNu42/VaN0l+ipjPtZ6N8B/Z+9JyNgJZuRN7jk3esXzk2sY/Ta6hHNYkrCgGa5pC5dri+9kItvUzi5f66nM2wpqbaeV1NsLa9/NWz0Z4cG09yBFbZJTzClaXIBsyQjWMn7EUno1gX424ZKE/WDkbQbPbNcK8wfov116UiLMR7hYihWsry4L/fQA4n920Figsf0C1Jwwt5WwxJn+yosOsnsLGrQS9ziFNV3nOTBpyDumHyrk/KfTR+RQfTri2CYDLV5cU2amUrNBzbRN3ktWd2dXEmlPJrOeQ/vU7B0oSfA4pXtWZT/ez80znkHJbe65NAnAzquP/TEQZhQTVjFybfJjHarpiP/8uQTWQLTDSWJgs+bxqSTYAqk0tlLk2CcClazlLFqUqVDNzbUryX0W0EdMZKlTzOYc0WdWZzrZTq60+TMnX0k1kw7ncifkcUhnkKACuycuFY/DqFuugmpVrUwEcLIdZkFRnPVTzPZd7mHNbcs7YTDpfEnIOqQzg/toMi5igmoVrGwGcpHXVD/+dZCXWQjVs59pgg13qIUm5Eaq5uDbVwnKJDbXiBhqhmotrgwAOb5bmxuqMSzNUc3FtcvIf4s/CkoZIExaoFpYtBm0xa3PGT0l9hHnBmi2sPrwDuNtyABy7OaCamWtrLAAu3i9lpEH3LqjmwbWNWtmd12WYKBbFOaCaF9em0ZKfJfTFeufufD5cm1aLkfGUqt8Sdu7fzAHVDFybB4CLy++/bam0Hd5MhmpYhWoTrSVbID0D9/5tIwKk3yzHA6r5cW0GLbEci/dhYVuEVVCmh2qeXJsEiCba8o/SBt0X/Ttk2jcL5dqQTUt2f+BGdu6PzEy8oJo316YHcFxL9HX4n5OKtinW5AWPbGHn2sza/PabTZXeUqIHZU5tZIRqDm2TGZYbfEBYdMkAiNRDS6jVcW2q4wzaIr5algK/Typ2JcQIyt7BtVm0PP9/2saKdplf53uBazNoxe/ku9tHbazokUwDqATK9FoL1yaSKYRqd21u0hZfH7OR+6+IG/AOE1DmAeAgE2UBcIlWS1BHPxFzatohXQbwgWqhXJtdy7Njetm82ZEV3Vwx8QBl7+LaTADufm0c777e6EhGv3ZxagNlZqimal+MNA9tgsv4YFzQFSQ8uhxSgsNjiiHSvJQtplrx62i/pS/lyKqm22s2Ly+8zLX5aHmXJGKXhXqOlVXFou6EyDCE9wVl7+HaQrR5nmXodItYkJUVo9HtuhNbbweCMqfWiLyDAJxGuzt9b/stM5ztkhu37U48WDV4Bih7L9cW0iV5b2jiHJ262zmilD12B6meu4RQGp2P3QWJ0Jc+u87zF5LZnW821+YVViVtI5Ja2aDLdb/ft93X7fbVdW3b7q871GT8P6VRrQcoCw6req5tJoC7ayGk6ktXSJ/BY5KSHgoRy7VWUBYG4KxMVBCAy21aArVyI9RrZ0O1l7g2K4BLVG0+aIlR+yoo+wjX9prWC369rn0AuE9HmlTu+3rtRyPNv+c/cIe0nzmlAAAAAElFTkSuQmCC",
+          "data:image/png;base64,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",
       },
       {
         name: "MySQL",
@@ -100,7 +97,6 @@ export const skills = [
         name: "Laravel",
         image: "https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg",
       },
-
     ],
   },
 
@@ -152,7 +148,7 @@ export const experiences = [
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/eigoqjgavknxr2nswm7b.png",
     role: "Web Developer Intern",
     company: "Exadev",
-    date: "Jan 2022 - Feb 2022 · 2 months",
+    date: "Jan 2023 - Feb 2023 · 2 months", // Mise à jour pour correspondre au CV [cite: 37]
     desc: "I created an E-commerce website as part of my second-year internship. The project's objective was to apply the skills I had acquired during my web development studies and to create a functional and professional E-commerce platform.",
     skills: [
       "HTML5",
@@ -169,15 +165,64 @@ export const experiences = [
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/tk6p7fcltayjqfdruayw.png",
     role: "Web Development Intern",
     company: "UIB - Société Générale Group",
-    date: "Jan 2021 - Feb 2021 · 2 months",
+    date: "Jan 2022 - Feb 2022 · 2 months", // Mise à jour pour correspondre au CV [cite: 46]
     desc: "I created my portfolio using HTML, CSS, and JavaScript to showcase my skills and achievements. Explore my work and feel free to contact me for exciting collaborations in the field of web development.",
     skills: [
       "HTML5",
       " CSS",
       "JavaScript",
       "jQuery",
+      "React", // Ajouté car mentionné dans le CV [cite: 47]
     ]
-  }
+  },
+  // Ajout des autres expériences professionnelles du CV
+  {
+    id: 2,
+    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/doxso_logo.png", // URL d'image générique ou à remplacer
+    role: "Web Developer Intern",
+    company: "Doxso Technologies",
+    date: "Jan 2024 - Jun 2024 · 6 months", // [cite: 28]
+    desc: "Led the development of the innovative medical platform, Aloo Doctoor, designed to enhance patient data management and facilitate communication among healthcare professionals.",
+    skills: [
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "XAMPP"
+    ]
+  },
+  {
+    id: 3,
+    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/freelance_logo.png", // URL d'image générique ou à remplacer
+    role: "Fullstack Web Developer & Junior DevOps (Freelance)",
+    company: "Freelance",
+    date: "Nov 2024 - Mar 2025 · 5 months", // [cite: 21]
+    desc: "Designed and deployed a fullstack web platform for hotel room booking, client management, and internal operations. Containerized the application and managed VPS deployment.",
+    skills: [
+      "Laravel",
+      "React.js",
+      "MySQL",
+      "Docker",
+      "Docker Compose",
+      "RESTful API"
+    ]
+  },
+  {
+    id: 4,
+    img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697759250/Portfolio/freelance_logo_2.png", // URL d'image générique ou à remplacer
+    role: "Web Developer (Freelance)",
+    company: "Freelance",
+    date: "Apr 2025 | Remote", // [cite: 14]
+    desc: "Worked on two web applications: a logistics dashboard for shipment tracking and a secure e-learning platform. Created CI/CD pipelines with GitHub Actions for automated deployment.",
+    skills: [
+      "React.js",
+      "Tailwind CSS",
+      "GitHub Actions",
+      "CI/CD"
+    ]
+  },
 
 ];
 
@@ -186,9 +231,9 @@ export const education = [
     id: 1,
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570823/Portfolio/abj9nqzcbwawdffjndnn.webp",
     school: "Ali Bourguiba High School, Mahres",
-    date: "September 2020 - June 2021",
+    date: "2017 - 2021", // Mise à jour pour correspondre au CV [cite: 55]
     Niveau: "High School Diploma (Baccalauréat)",
-    degree: "4th Year Technical Stream (Bac Technique)",
+    degree: "Technical Stream (Bac Technique)",
     desc: "I successfully completed my high school education and was admitted to the next level."
   },
   {
@@ -203,19 +248,75 @@ export const education = [
     id: 3,
     img: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1697570771/Portfolio/vy5lhqz6ct7obadir4b0.png",
     school: "Higher Institute of Technological Studies of Sfax (ISET Sfax)",
-    date: "September 2022 - June 2023",
-    degree: "Second Year in Computer Science",
-    desc: "Completed the second year with specialization in Computer System Development."
+    date: "September 2022 - June 2024", // Mise à jour pour couvrir le diplôme de Bachelor [cite: 54]
+    degree: "Bachelor's Degree in Information Technology", // Remplacé par le diplôme final [cite: 51]
+    desc: "Completed the second year with specialization in Computer System Development and obtained the Bachelor's Degree in Information Technology."
   }
-
-
 ];
 
 export const projects = [
+  // NOUVEAUX PROJETS AJOUTÉS DU CV
+  {
+    id: 0,
+    title: "Logistics Dashboard (Freelance)",
+    date: "04/2025 | Remote", // [cite: 14]
+    description: "Developed a logistics dashboard for shipment tracking and management with dynamic, responsive front-end interfaces and improved user experience.", // [cite: 15, 18, 19]
+    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/logistics_dashboard.png", // Placeholder à remplacer
+    tags: ["React.js", "Tailwind CSS", "GitHub Actions", "CI/CD"], // [cite: 16, 17, 18]
+    category: "web app",
+    github: "", // À ajouter si disponible
+    webapp: "", // À ajouter si disponible
+  },
+  {
+    id: 1,
+    title: "Secure E-learning Platform (Freelance)",
+    date: "04/2025 | Remote", // [cite: 14]
+    description: "Developed a secure e-learning platform featuring comprehensive user management and content delivery functionalities, including automated deployment via CI/CD.", // [cite: 15, 17]
+    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/elearning_platform.png", // Placeholder à remplacer
+    tags: ["React.js", "GitHub Actions", "CI/CD"], // [cite: 16, 17]
+    category: "web app",
+    github: "", // À ajouter si disponible
+    webapp: "", // À ajouter si disponible
+  },
+  {
+    id: 2,
+    title: "Hotel Room Booking Platform (Freelance)",
+    date: "11/2024 – 03/2025 | Remote", // [cite: 21]
+    description: "Designed and deployed a full-stack platform for hotel room booking, client management, and internal operations. Included containerization and VPS deployment management.", // [cite: 22, 25, 26]
+    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/hotel_booking.png", // Placeholder à remplacer
+    tags: ["Laravel", "React.js", "MySQL", "Docker", "Docker Compose", "RESTful API"], // [cite: 23, 24, 25]
+    category: "fullstack",
+    github: "", // À ajouter si disponible
+    webapp: "", // À ajouter si disponible
+  },
+  {
+    id: 3,
+    title: "Aloo Doctoor (Medical Platform Internship)",
+    date: "01/2024 – 06/2024 | Sfax", // [cite: 28]
+    description: "Led the development of 'Aloo Doctoor,' an innovative medical platform to enhance patient data management and communication among healthcare professionals, focusing on security and scalability.", // [cite: 29, 32, 33]
+    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/aloo_doctoor.png", // Placeholder à remplacer
+    tags: ["HTML5", "CSS", "JavaScript", "PHP", "Laravel", "MySQL", "XAMPP"], // [cite: 31, 32, 33, 34]
+    category: "fullstack",
+    github: "View the project on GitHub.", // [cite: 35]
+    webapp: "",
+  },
+  {
+    id: 4,
+    title: "Professional Portfolio (Internship UIB)",
+    date: "01/2022 – 02/2022 | Sfax", // [cite: 46]
+    description: "Designed and developed a professional portfolio during the first-year internship, serving as a tangible representation of web development skills and creativity.", // [cite: 47, 48]
+    image: "https://res.cloudinary.com/dkrfmqbj1/image/upload/v1718037600/project_images/uib_portfolio.png", // Placeholder à remplacer
+    tags: ["HTML", "CSS", "JavaScript", "React"], // [cite: 47]
+    category: "web app",
+    github: "You can view it here on GitHub.", // [cite: 49]
+    webapp: "",
+  },
+
+  // PROJETS PRÉ-EXISTANTS MAINTENUS ET AJUSTÉS
   {
     id: 9,
-    title: "E-commerce",
-    date: "01/2022 – 02/2022 | Sfax",
+    title: "E-commerce (Internship Exadev)",
+    date: "01/2023 – 02/2023 | Sfax", // Mise à jour pour correspondre au CV [cite: 37]
     description:
       "My E-commerce project, carried out during my second-year internship, aims to put into practice the skills acquired during my web development studies and create a functional and professional E-commerce platform.",
     image:
@@ -227,13 +328,14 @@ export const projects = [
       "PHP",
       "LARAVEL",
       "Mysql",
+      "XAMPP", // Ajouté car mentionné dans le CV [cite: 42]
     ],
     category: "web app",
     github: "https://github.com/MedAlizbaira/E-commerce",
     webapp: "",
   },
   {
-    id: 9,
+    id: 10, // ID mis à jour
     title: "Reservation-ticket",
     date: "03/2022 – 04/2022 | Sfax",
     description:
@@ -254,7 +356,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 9,
+    id: 11, // ID mis à jour
     title: "RendezvousHub",
     date: "04/2022 – 04/2022 | Sfax",
     description:
@@ -273,7 +375,7 @@ export const projects = [
     webapp: "https://rendezvous-hub.vercel.app/",
   },
   {
-    id: 9,
+    id: 12, // ID mis à jour
     title: "ArtyProd",
     date: "04/2022 – 05/2022 | Sfax",
     description:
@@ -292,7 +394,7 @@ export const projects = [
     webapp: "https://github.com/MedAlizbaira/ArtyProd",
   },
   {
-    id: 9,
+    id: 13, // ID mis à jour
     title: "Commerce Électronique",
     date: "04/2022 – 05/2022 | Sfax",
     description:
@@ -311,7 +413,7 @@ export const projects = [
     webapp: "https://github.com/MedAlizbaira/Commerce-electronique",
   },
   {
-    id: 9,
+    id: 14, // ID mis à jour
     title: "InvoiceSwiftAngular",
     date: "09/2023 – 09/2023 | Sfax",
     description:
@@ -330,7 +432,7 @@ export const projects = [
     webapp: "https://invoiceswift-angular.vercel.app/",
   },
   {
-    id: 3,
+    id: 15, // ID mis à jour
     title: "North Africa's Tunisia Diamond",
     date: "10/2023 – 11/2023 | Sfax",
     description:
@@ -347,7 +449,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 3,
+    id: 16, // ID mis à jour
     title: "Client and Invoice Management ",
     date: "11/2023 – 12/2023 | Sfax",
     description:
@@ -364,11 +466,3 @@ export const projects = [
     webapp: "",
   },
 ];
-
-// export const TimeLineData = [
-//   { year: 2017, text: "Started my journey" },
-//   { year: 2018, text: "Worked as a freelance developer" },
-//   { year: 2019, text: "Founded JavaScript Mastery" },
-//   { year: 2020, text: "Shared my projects with the world" },
-//   { year: 2021, text: "Started my own platform" },
-// ];
