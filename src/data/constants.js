@@ -256,8 +256,8 @@ export const projects = [
     image: "https://camo.githubusercontent.com/ad2c3d08d3ed67a9e83da2e2b7be46696ca61b615543cffc60c7db834bb026aa/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b72666d71626a312f696d6167652f75706c6f61642f76313733303833363834362f474954253230446576656c6f706d656e742532306f66253230612532304d65646963616c253230506c6174666f726d2f73637265656e636170747572652d3132372d302d302d312d383030302d323032342d31312d30352d32305f35385f33355f7670756c61392e706e67", // Placeholder à remplacer
     tags: ["HTML5", "CSS", "JavaScript", "PHP", "Laravel", "MySQL", "XAMPP"], // [cite: 31, 32, 33, 34]
     category: "fullstack",
-    github: "View the project on GitHub.", // [cite: 35]
-    webapp: "",
+    github: "https://github.com/Mohamed-Ali-Zbaira/AlooDoctoor-Development-of-a-Medical-Platform", // [cite: 35]
+    webapp: "https://github.com/Mohamed-Ali-Zbaira/AlooDoctoor-Development-of-a-Medical-Platform",
   },
  
 
